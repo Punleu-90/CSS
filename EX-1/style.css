@@ -1,0 +1,45 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+.Container {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+}
+.green{
+    border-radius: 20px;
+    height: 30px;
+    background-color: rgb(0, 128, 102);
+    border: rgb(0, 128, 102);  
+    color: white;
+}
+.orang{
+    border-radius: 20px;
+    height: 30px;
+    background-color: rgb(226, 102, 0);
+    border: rgb(226, 102, 0);  
+    color: black;
+}
+.purple{
+    border-radius: 20px;
+    height: 30px;
+    background-color:rgb(152, 0, 149);
+    border: rgb(152, 0, 149);  
+    color: white;
+}
+.green:hover{
+    background-color: rgb(69, 239, 219);
+    color: black;
+}
+.orang:hover{
+    background-color: rgb(255, 205, 135);
+    color: black;
+}
+.purple:hover{
+    background-color: pink;
+    color: rgb(224, 43, 43);
+}

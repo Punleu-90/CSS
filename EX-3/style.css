@@ -1,0 +1,20 @@
+button {
+    width: 600px;
+    height: 300px;
+    border-radius: 100px;
+    border: 10px solid  rgb(222, 107, 182);
+    font-size: 90px;
+    color: white;
+    background-color: rgb(255, 143, 216);
+    text-transform: uppercase;
+    margin-left: 460px;
+    margin-top: 200px;
+}
+button:hover{
+    background-color: rgb(144, 80, 116);
+    color: white;
+}
+button a{
+    color: white;
+    text-decoration: none;
+}
